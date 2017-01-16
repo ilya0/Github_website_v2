@@ -1092,6 +1092,9 @@ Resume Timeline
     overflow: hidden;
 }
 
+.portfolioinst{
+  text-align: center;
+}
 
 /* Shuffle Filter*/
 #filter {
