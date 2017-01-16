@@ -802,16 +802,18 @@ Resume Timeline
 }
 
 .timeline-heading h3 {
-    font-size: 20px;
+    font-size: 30px;
     line-height: 28px;
 }
 .timeline-heading span{
     display: block;
     font-weight: 700;
     margin-bottom: 20px;
+    font-size: 20px;
 }
-
-
+.timeline-heading i{
+  font-size: 15px;
+}
 
 
 
